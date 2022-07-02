@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		72A073AC286FEE7C000D5163 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A073AB286FEE7C000D5163 /* MyModel.swift */; };
 		72CF51EF2869356D0085DF3A /* LearningGHApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CF51EE2869356D0085DF3A /* LearningGHApp.swift */; };
 		72CF51F12869356D0085DF3A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CF51F02869356D0085DF3A /* ContentView.swift */; };
 		72CF51F32869356F0085DF3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72CF51F22869356F0085DF3A /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		72A073AB286FEE7C000D5163 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 		72CF51EB2869356D0085DF3A /* LearningGH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningGH.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72CF51EE2869356D0085DF3A /* LearningGHApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningGHApp.swift; sourceTree = "<group>"; };
 		72CF51F02869356D0085DF3A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				72CF51F02869356D0085DF3A /* ContentView.swift */,
 				72CF51F22869356F0085DF3A /* Assets.xcassets */,
 				72CF51F42869356F0085DF3A /* Preview Content */,
+				72A073AB286FEE7C000D5163 /* MyModel.swift */,
 			);
 			path = LearningGH;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				72CF51F12869356D0085DF3A /* ContentView.swift in Sources */,
+				72A073AC286FEE7C000D5163 /* MyModel.swift in Sources */,
 				72CF51EF2869356D0085DF3A /* LearningGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
